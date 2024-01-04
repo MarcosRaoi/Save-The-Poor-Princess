@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Player",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "Wood",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -12,7 +10,7 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
-  "persistent": true,
+  "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "player_naked",
-    "path": "sprites/player_naked/player_naked.yy",
+    "name": "collect_wood",
+    "path": "sprites/collect_wood/collect_wood.yy",
   },
   "spriteMaskId": null,
   "visible": true,

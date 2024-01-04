@@ -16,5 +16,9 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"collect_wood","order":1,"path":"sprites/collect_wood/collect_wood.yy",},
+    {"name":"Wood","order":1,"path":"objects/Wood/Wood.yy",},
+    {"name":"Bing","order":1,"path":"notes/Bing/Bing.yy",},
+  ],
 }
