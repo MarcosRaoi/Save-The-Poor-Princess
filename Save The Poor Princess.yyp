@@ -36,8 +36,10 @@
   "resources": [
     {"id":{"name":"GameIdea","path":"notes/GameIdea/GameIdea.yy",},},
     {"id":{"name":"player_naked","path":"sprites/player_naked/player_naked.yy",},},
+    {"id":{"name":"background_repeat","path":"sprites/background_repeat/background_repeat.yy",},},
     {"id":{"name":"collect_wood","path":"sprites/collect_wood/collect_wood.yy",},},
     {"id":{"name":"Wood","path":"objects/Wood/Wood.yy",},},
+    {"id":{"name":"GameLogic","path":"objects/GameLogic/GameLogic.yy",},},
     {"id":{"name":"Bing","path":"notes/Bing/Bing.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

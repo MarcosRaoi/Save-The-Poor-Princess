@@ -17,8 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"background_repeat","order":2,"path":"sprites/background_repeat/background_repeat.yy",},
     {"name":"collect_wood","order":1,"path":"sprites/collect_wood/collect_wood.yy",},
     {"name":"Wood","order":1,"path":"objects/Wood/Wood.yy",},
+    {"name":"GameLogic","order":2,"path":"objects/GameLogic/GameLogic.yy",},
     {"name":"Bing","order":1,"path":"notes/Bing/Bing.yy",},
   ],
 }
