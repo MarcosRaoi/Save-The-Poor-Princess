@@ -40,6 +40,8 @@
     {"id":{"name":"collect_wood","path":"sprites/collect_wood/collect_wood.yy",},},
     {"id":{"name":"Wood","path":"objects/Wood/Wood.yy",},},
     {"id":{"name":"GameLogic","path":"objects/GameLogic/GameLogic.yy",},},
+    {"id":{"name":"Rock","path":"objects/Rock/Rock.yy",},},
+    {"id":{"name":"collect_rock","path":"sprites/collect_rock/collect_rock.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Bing","path":"notes/Bing/Bing.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
