@@ -14,10 +14,10 @@ if global.needed_wood
 
 if global.needed_rock
 {
-	draw_text(5, 10, _rock_text)
+	draw_text(5, 20, _rock_text)
 }
 
 if global.needed_cloth
 {
-	draw_text(5, 20, _cloth_text)
+	draw_text(5, 40, _cloth_text)
 }
