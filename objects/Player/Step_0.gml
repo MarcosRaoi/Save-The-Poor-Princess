@@ -45,7 +45,7 @@ function player_movement()
 // Até porque vai ser por fase e talz... sei lá. '-'-'-
 function adjust_z_index()
 {
-	if y < Wood.y
+	if y < C_Wood.y
 	{
 		depth = 1
 	}

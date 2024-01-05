@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Wood",
+  "name": "C_Wood",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

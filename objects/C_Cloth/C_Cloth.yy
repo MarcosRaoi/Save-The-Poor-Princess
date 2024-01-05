@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Rock",
+  "name": "C_Cloth",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "collect_rock",
-    "path": "sprites/collect_rock/collect_rock.yy",
+    "name": "collect_cloth",
+    "path": "sprites/collect_cloth/collect_cloth.yy",
   },
   "spriteMaskId": null,
   "visible": true,

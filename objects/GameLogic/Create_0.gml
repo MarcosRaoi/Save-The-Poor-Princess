@@ -18,4 +18,10 @@ global.needed_wood = _initial_needed_wood
 global.needed_rock = _initial_needed_rock
 global.needed_cloth = _initial_needed_cloth
 
+
+global.wood_collect_factor = 1.0
+global.rock_collect_factor = 0.5
+global.cloth_collect_factor = 0.25
+
+
 global.can_pass_level = _initial_can_pass_level

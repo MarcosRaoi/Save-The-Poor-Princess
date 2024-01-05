@@ -4,5 +4,5 @@
 
 if keyboard_check(vk_space)
 {
-	global.wood += 1
+	global.cloth += global.cloth_collect_factor
 }

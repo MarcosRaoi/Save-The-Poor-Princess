@@ -4,5 +4,5 @@
 
 if keyboard_check(vk_space)
 {
-	global.rock += 0.5
+	global.rock += global.rock_collect_factor
 }
