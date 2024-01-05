@@ -40,12 +40,14 @@
     {"id":{"name":"collect_wood","path":"sprites/collect_wood/collect_wood.yy",},},
     {"id":{"name":"Wood","path":"objects/Wood/Wood.yy",},},
     {"id":{"name":"GameLogic","path":"objects/GameLogic/GameLogic.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Bing","path":"notes/Bing/Bing.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

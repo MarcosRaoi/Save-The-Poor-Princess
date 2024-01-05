@@ -34,7 +34,9 @@ function player_movement()
 	var _x_input = _right_input - _left_input
 	var _yinput = _down_input - _up_input;
 	
-	move_and_collide(_x_input * _movement_step, _yinput * _movement_step, all);
+	x += _x_input
+	y += _yinput
+	//move_and_collide(_x_input * _movement_step, _yinput * _movement_step, all);
 }
 
 
@@ -55,6 +57,5 @@ function adjust_z_index()
 
 
 player_movement()
-move_and_collide(0, 0, all);
 adjust_z_index()
 

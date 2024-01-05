@@ -21,6 +21,7 @@
     {"name":"collect_wood","order":1,"path":"sprites/collect_wood/collect_wood.yy",},
     {"name":"Wood","order":1,"path":"objects/Wood/Wood.yy",},
     {"name":"GameLogic","order":2,"path":"objects/GameLogic/GameLogic.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Bing","order":1,"path":"notes/Bing/Bing.yy",},
   ],
 }
